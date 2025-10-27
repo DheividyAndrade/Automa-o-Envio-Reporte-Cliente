@@ -46,7 +46,8 @@ Automatizar o envio de prints de planilhas do Excel Online para grupos do WhatsA
 
 <img width="136" height="36" alt="image" src="https://github.com/user-attachments/assets/c8e2454b-6bf8-431f-b522-c4196bc884e7" />
 
-<img width="502" height="329" alt="image" src="https://github.com/user-attachments/assets/d7b252ea-4035-41ba-8250-682c7558f295" />
+<img width="501" height="332" alt="image" src="https://github.com/user-attachments/assets/8919e6fd-a0bf-4198-a274-8051c0600b40" />
+
 
 
 ---
